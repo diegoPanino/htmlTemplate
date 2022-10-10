@@ -1,0 +1,23 @@
+.header .header-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 15vh;
+}
+.header .header-container .header-txt svg {
+  width: 25px;
+  height: 25px;
+}
+.header .header-container .header-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.header {
+  color: yellow;
+}

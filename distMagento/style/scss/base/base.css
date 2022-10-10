@@ -1,0 +1,13 @@
+h1, .h1 {
+  font-size: 2rem;
+  line-height: 25px;
+}
+
+h2, .h2 {
+  font-size: 1.5rem;
+  line-height: 22px;
+}
+
+body {
+  background: #428bca;
+}
